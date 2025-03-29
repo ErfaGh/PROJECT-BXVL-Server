@@ -13,3 +13,4 @@ and rename in script text or texts if you want and save it
 # How to write script Java?
 Pydroid you don't need if you want to write in Java script
 You need to do one
+# Here's Apk that zip you need to extract:
