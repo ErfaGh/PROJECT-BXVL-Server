@@ -14,3 +14,4 @@ and rename in script text or texts if you want and save it
 Pydroid you don't need if you want to write in Java script
 You need to do one
 # Here's Apk for you
+https://www.mediafire.com/file/iqznkxbmzt994b8/base.apk/file
